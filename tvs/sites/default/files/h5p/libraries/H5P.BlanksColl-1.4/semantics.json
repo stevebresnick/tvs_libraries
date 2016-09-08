@@ -1,0 +1,61 @@
+[
+  {
+    "name": "image",
+    "type": "image",
+    "label": "Task image",
+    "optional": true,
+    "description": "An optional image to display above the task."
+  },
+  {
+    "label": "Task description",
+    "name": "text",
+    "type": "text",
+    "widget": "html",
+    "default": "Fill in the missing words",
+    "description": "A guide telling the user how to answer this task.",
+    "enterMode": "p",
+    "tags": [
+      "strong",
+      "em",
+      "u",
+      "a",
+      "ul",
+      "ol",
+      "h2",
+      "h3",
+      "hr"
+    ]
+  },
+  {
+    "name": "questions",
+    "type": "list",
+    "label": "Text blocks",
+    "entity": "text block",
+    "min": 1,
+    "max": 31,
+    "field": {
+      "name": "question",
+      "type": "text",
+      "widget": "html",
+      "label": "Line of text",
+      "placeholder": "Oslo is the capital of *Norway*.",
+      "description": "Blanks are added with an asterix (*) in front and behind the correct word/phrase. Alternative answers are separated with a forward slash (/). You may add a textual tip, using a colon (:) in front of the tip. Example: H5P content may be edited using a *browser/web-browser:Something you use every day*.",
+      "enterMode": "p",
+      "tags": [
+        "strong",
+        "em",
+        "del",
+        "u"
+      ]
+    }
+  },
+    {
+     "label": "Submit answer button label",
+    "name": "submitAnswer",
+    "type": "text",
+    "default": "Submit",
+    "common": true,
+    "optional": true,
+    "hide": true
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "title": "Presentation",
+  "contentType": "Library",
+  "majorVersion": 1,
+  "minorVersion": 9,
+  "patchVersion": 50,
+  "runnable": 1,
+  "fullscreen": 1,
+  "embedTypes": [
+    "iframe"
+  ],
+  "machineName": "H5P.Presentation",
+  "author": "TVS",
+  "coreApi": {
+    "majorVersion": 1,
+    "minorVersion": 6
+  },
+  "preloadedJs": [
+    {
+      "path": "scripts/presentation.js"
+    },
+    {
+      "path": "scripts/go-to-slide.js"
+    },
+    {
+      "path": "scripts/navigation-line.js"
+    },
+    {
+      "path": "scripts/printer.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "styles/presentation.css"
+    },
+    {
+      "path": "styles/navigation-line.css"
+    },
+    {
+      "path": "styles/print.css"
+    }
+  ],
+  "preloadedDependencies": [
+    {
+      "machineName": "FontAwesome",
+      "majorVersion": 4,
+      "minorVersion": 3
+    },
+    {
+      "machineName": "H5P.JoubelUI",
+      "majorVersion": 1,
+      "minorVersion": 3
+    }
+  ],
+  "editorDependencies": [
+    {
+      "machineName": "H5PEditor.PresentationEditor",
+      "majorVersion": 1,
+      "minorVersion": 0
+    }
+  ]
+}

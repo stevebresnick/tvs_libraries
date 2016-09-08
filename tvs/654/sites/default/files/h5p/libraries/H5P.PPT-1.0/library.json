@@ -1,0 +1,15 @@
+{
+  "title": "PPT",
+  "description": "A library for display PPT files",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 1,
+  "runnable": 1,
+  "machineName": "H5P.PPT",
+  "author": "TVS",
+  "preloadedJs": [
+    {
+      "path": "ppt.js"
+    }
+  ]
+}

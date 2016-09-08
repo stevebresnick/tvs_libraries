@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_6"><path d="M0.5,1286.5L0.5,0.5l909,0l0,1286Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g3_6{
+fill: #3A70C5;
+}
+.g1_6{
+fill: #6EABC6;
+}
+.g2_6{
+fill: none;
+stroke: #000000;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<path d="M65,0L908,0l0,66L65,66Z" class="g1_6" />
+<path d="M73,0L908,0l0,66L73,66Z" class="g1_6" />
+<g clip-path="url(#c0_6)">
+<path d="M-7.5,0.5l72,0" class="g2_6" />
+<path d="M65.5,0.5l852,0" class="g2_6" />
+</g>
+<path d="M64.5,66.5l0,-66" class="g2_6" />
+<g clip-path="url(#c0_6)">
+<path d="M-7.5,67.5l72,0" class="g2_6" />
+</g>
+<path d="M64.5,67.5l0,-1" class="g2_6" />
+<path d="M65.5,67.5l833,0" class="g2_6" />
+<path d="M898.5,67.5l0,-1" class="g2_6" />
+<g clip-path="url(#c0_6)">
+<path d="M899.5,67.5l18,0" class="g2_6" />
+</g>
+<path d="M64.5,668.5l0,-601" class="g2_6" />
+<path d="M65,669l843,0l0,66L65,735Z" class="g1_6" />
+<path d="M73,669l835,0l0,66L73,735Z" class="g1_6" />
+<g clip-path="url(#c0_6)">
+<path d="M-7.5,669.5l72,0" class="g2_6" />
+</g>
+<path d="M64.5,669.5l0,-1" class="g2_6" />
+<path d="M65.5,669.5l833,0" class="g2_6" />
+<path d="M898.5,669.5l0,-1" class="g2_6" />
+<g clip-path="url(#c0_6)">
+<path d="M899.5,669.5l18,0" class="g2_6" />
+</g>
+<path d="M64.5,735.5l0,-66" class="g2_6" />
+<path d="M120,820l25,0l0,22l-25,0Z" class="g3_6" />
+<path d="M226,840l31,0l0,22l-31,0Z" class="g3_6" />
+<path d="M140,895l30,0l0,22l-30,0Z" class="g3_6" />
+<path d="M363,1029l29,0l0,22l-29,0Z" class="g3_6" />
+<path d="M422,1121l31,0l0,22l-31,0Z" class="g3_6" />
+<path d="M790,1161l30,0l0,22l-30,0Z" class="g3_6" />
+<g clip-path="url(#c0_6)">
+<path d="M-7.5,735.5l72,0" class="g2_6" />
+</g>
+<path d="M65.5,735.5l833,0" class="g2_6" />
+<g clip-path="url(#c0_6)">
+<path d="M899.5,735.5l18,0" class="g2_6" />
+</g>
+<path d="M64.5,1279.5l0,-544" class="g2_6" />
+<g clip-path="url(#c0_6)">
+<path d="M897.5,1280.5l20,0" class="g2_6" />
+</g>
+<image x="115" y="122" width="737" height="479" xlink:href="img/1.png" />
+</svg>

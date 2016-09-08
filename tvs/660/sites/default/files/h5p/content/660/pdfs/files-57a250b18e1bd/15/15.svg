@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_15{
+fill: none;
+stroke: #000000;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_15{
+fill: none;
+stroke: #0066FF;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<path d="M122.5,1029.5l705,0" class="g1_15" />
+<path d="M413.5,98.5l283,0" class="g2_15" />
+<path d="M412.5,128.5l341,0" class="g2_15" />
+<path d="M433.5,159.5l373,0" class="g2_15" />
+<path d="M423.5,189.5l208,0" class="g2_15" />
+<path d="M398.5,220.5l374,0" class="g2_15" />
+<path d="M379.5,250.5l311,0" class="g2_15" />
+<path d="M371.5,281.5l428,0" class="g2_15" />
+<path d="M124.5,297.5l182,0" class="g2_15" />
+<path d="M414.5,328.5l258,0" class="g2_15" />
+<path d="M416.5,358.5l343,0" class="g2_15" />
+<path d="M124.5,375.5l130,0" class="g2_15" />
+<path d="M418.5,406.5l391,0" class="g2_15" />
+<path d="M124.5,422.5l55,0" class="g2_15" />
+<path d="M412.5,453.5l271,0" class="g2_15" />
+<path d="M415.5,483.5l356,0" class="g2_15" />
+<path d="M124.5,500.5l130,0" class="g2_15" />
+<path d="M416.5,530.5l404,0" class="g2_15" />
+<path d="M124.5,547.5l55,0" class="g2_15" />
+<path d="M385.5,578.5l435,0" class="g2_15" />
+<path d="M124.5,594.5l125,0" class="g2_15" />
+<path d="M376.5,625.5l249,0" class="g2_15" />
+<path d="M388.5,655.5l422,0" class="g2_15" />
+<path d="M392.5,686.5l306,0" class="g2_15" />
+<path d="M393.5,716.5l368,0" class="g2_15" />
+<path d="M124.5,733.5l224,0" class="g2_15" />
+<path d="M405.5,763.5l368,0" class="g2_15" />
+<path d="M124.5,780.5l223,0" class="g2_15" />
+<path d="M398.5,810.5l368,0" class="g2_15" />
+<path d="M124.5,827.5l240,0" class="g2_15" />
+<path d="M393.5,858.5l405,0" class="g2_15" />
+<path d="M124.5,874.5l74,0" class="g2_15" />
+<path d="M403.5,905.5l369,0" class="g2_15" />
+<path d="M124.5,922.5l213,0" class="g2_15" />
+<path d="M401.5,952.5l368,0" class="g2_15" />
+<path d="M124.5,969.5l205,0" class="g2_15" />
+</svg>

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "MLE",
+    "type": "group",
+    "label": "ML Editor",
+    "fields": [
+        {
+            "name": "content",
+            "type": "library",
+            "label": "Select MLE Content",
+            "optional": false,
+            "showEditorCopyright": false,
+            "options": [
+                "H5P.Text 1.1",
+                "H5P.Video 1.1",
+                "H5P.Image 1.0",
+                "H5P.URL 1.1"
+          ]
+        },
+        {
+            "name": "question1",
+            "type": "library",
+            "label": "Select MLE Question",
+            "optional": "H5P.SingleChoiceSet 1.3",
+            "showEditorCopyright": false,
+            "options": [
+                "H5P.SingleChoiceSet 1.3",
+                "H5P.MultiChoice 1.5",
+                "H5P.Blanks 1.4",
+                "H5P.Summary 1.4"
+          ]
+        },
+           {
+            "name": "question2",
+            "type": "library",
+            "label": "Select MLE Question",
+            "optional": "H5P.SingleChoiceSet 1.3",
+            "showEditorCopyright": false,
+            "options": [
+                "H5P.SingleChoiceSet 1.3",
+                "H5P.MultiChoice 1.5",
+                "H5P.Blanks 1.4",
+                "H5P.Summary 1.4"
+          ]
+        },
+           {
+            "name": "question3",
+            "type": "library",
+            "label": "Select MLE Question",
+            "optional": "H5P.SingleChoiceSet 1.3",
+            "showEditorCopyright": false,
+            "options": [
+                "H5P.SingleChoiceSet 1.3",
+                "H5P.MultiChoice 1.5",
+                "H5P.Blanks 1.4",
+                "H5P.Summary 1.4"
+          ]
+        },
+           {
+            "name": "question4",
+            "type": "library",
+            "label": "Select MLE Question",
+            "optional": "H5P.SingleChoiceSet 1.3",
+            "showEditorCopyright": false,
+            "options": [
+                "H5P.SingleChoiceSet 1.3",
+                "H5P.MultiChoice 1.5",
+                "H5P.Blanks 1.4",
+                "H5P.Summary 1.4"
+          ]
+        },
+           {
+            "name": "question5",
+            "type": "library",
+            "label": "Select MLE Question",
+            "optional": "H5P.SingleChoiceSet 1.3",
+            "showEditorCopyright": false,
+            "options": [
+                "H5P.SingleChoiceSet 1.3",
+                "H5P.MultiChoice 1.5",
+                "H5P.Blanks 1.4",
+                "H5P.Summary 1.4"
+          ]
+        }
+       
+    ]
+  }
+    
+]
+   

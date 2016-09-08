@@ -1,0 +1,167 @@
+[
+  {
+    "name": "question",
+    "type": "text",
+    "widget": "html",
+    "label": "Question",
+    "enterMode": "p",
+    "tags": [
+      "strong",
+      "em",
+      "sub",
+      "sup",
+      "h2",
+      "h3",
+      "a",
+      "ul",
+      "li",
+      "ol"
+    ]
+  },
+  {
+    "name": "answers",
+    "type": "list",
+    "label": "Available options",
+    "description": "The alternatives the user may choose from.",
+    "entity": "option",
+    "min": 1,
+    "defaultNum": 1,
+    "field": {
+      "name": "answer",
+      "type": "group",
+      "label": "Option",
+      "fields": [
+        {
+          "name": "text",
+          "type": "text",
+          "widget": "html",
+          "label": "Text",
+          "tags": [
+            "strong",
+            "em",
+            "sub",
+            "sup",
+            "a",
+            "ul",
+            "li",
+            "ol"
+          ]
+        },
+        {
+          "name": "tipsAndFeedback",
+          "type": "group",
+          "label": "Tips and feedback",
+          "optional": true,
+          "fields": [
+            {
+              "name": "tip",
+              "label": "Tip text",
+              "type": "text",
+              "widget": "html",
+              "tags": ["p", "br", "strong", "em","a",
+      "ul",
+      "li",
+      "ol"],
+              "optional": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "UI",
+    "type": "group",
+    "label": "User interface translations for multichoice",
+    "common": true,
+    "fields": [
+      {
+        "name": "checkAnswerButton",
+        "type": "text",
+        "label": "Submit answer button label",
+        "default": "Submit"
+      },
+      {
+        "name": "showSolutionButton",
+        "type": "text",
+        "label": "Show solution button label",
+        "default": "Show solution"
+      },
+      {
+        "name": "tryAgainButton",
+        "type": "text",
+        "label": "Retry button label",
+        "default": "Retry",
+        "optional": true
+      },
+      {
+        "name": "correctText",
+        "type": "text",
+        "label": "Correct answer feedback",
+        "default": "Correct!",
+        "deprecated": true
+      },
+      {
+        "name": "almostText",
+        "type": "text",
+        "label": "Almost correct answer feedback",
+        "default": "Almost!",
+        "deprecated": true
+      },
+      {
+        "name": "wrongText",
+        "type": "text",
+        "label": "Not correct answer feedback",
+        "default": "Wrong",
+        "deprecated": true
+      }
+    ]
+  },
+  {
+    "name": "behaviour",
+    "type": "group",
+    "label": "Behavioural settings",
+    "description": "These options will let you control how the task behaves.",
+    "optional": true,
+    "fields": [
+      {
+        "name": "enableRetry",
+        "type": "boolean",
+        "label": "Enable \"Retry\" button",
+        "default": true,
+        "hide": true,
+        "optional": true
+      },
+      {
+        "name": "enableSolutionsButton",
+        "type": "boolean",
+        "label": "Enable \"Show Solution\" button",
+        "default": true,
+        "hide": true,
+        "optional": true
+      },
+      {
+        "name": "randomAnswers",
+        "type": "boolean",
+        "label": "Randomize answers",
+        "default": true
+      },
+      {
+        "label": "Require user input before the solution can be viewed",
+        "name": "showSolutionsRequiresInput",
+        "type": "boolean",
+        "default": true,
+        "hide": true,
+        "optional": true
+      },
+      {
+        "label": "Disable image zooming for question image",
+        "name": "disableImageZooming",
+        "type": "boolean",
+        "default": false,
+        "hide": true,
+        "optional": true
+      }
+    ]
+  }
+]

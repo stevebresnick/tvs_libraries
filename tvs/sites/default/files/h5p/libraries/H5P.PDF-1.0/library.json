@@ -1,0 +1,15 @@
+{
+  "title": "PDF",
+  "description": "A library for display PDF files",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 6,
+  "runnable": 1,
+  "machineName": "H5P.PDF",
+  "author": "TVS",
+  "preloadedJs": [
+    {
+      "path": "pdf.js"
+    }
+  ]
+}

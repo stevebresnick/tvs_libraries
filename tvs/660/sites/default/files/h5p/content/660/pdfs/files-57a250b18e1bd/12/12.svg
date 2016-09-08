@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_12{
+fill: none;
+stroke: #000000;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_12{
+fill: none;
+stroke: #0066FF;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<path d="M122.5,1029.5l705,0" class="g1_12" />
+<path d="M389.5,98.5l383,0" class="g2_12" />
+<path d="M124.5,115.5l74,0" class="g2_12" />
+<path d="M385.5,145.5l225,0" class="g2_12" />
+<path d="M387.5,176.5l398,0" class="g2_12" />
+<path d="M124.5,192.5l148,0" class="g2_12" />
+<path d="M383.5,223.5l363,0" class="g2_12" />
+<path d="M392.5,253.5l297,0" class="g2_12" />
+<path d="M401.5,284.5l334,0" class="g2_12" />
+<path d="M124.5,300.5l87,0" class="g2_12" />
+<path d="M391.5,331.5l380,0" class="g2_12" />
+<path d="M392.5,361.5l332,0" class="g2_12" />
+<path d="M402.5,392.5l255,0" class="g2_12" />
+<path d="M401.5,422.5l363,0" class="g2_12" />
+<path d="M395.5,453.5l273,0" class="g2_12" />
+<path d="M400.5,483.5l309,0" class="g2_12" />
+<path d="M398.5,514.5l252,0" class="g2_12" />
+<path d="M396.5,544.5l245,0" class="g2_12" />
+<path d="M402.5,575.5l235,0" class="g2_12" />
+<path d="M398.5,605.5l363,0" class="g2_12" />
+<path d="M401.5,636.5l232,0" class="g2_12" />
+<path d="M405.5,666.5l281,0" class="g2_12" />
+<path d="M406.5,696.5l361,0" class="g2_12" />
+<path d="M392.5,727.5l231,0" class="g2_12" />
+<path d="M400.5,757.5l237,0" class="g2_12" />
+<path d="M400.5,788.5l256,0" class="g2_12" />
+<path d="M411.5,818.5l223,0" class="g2_12" />
+<path d="M406.5,849.5l393,0" class="g2_12" />
+<path d="M124.5,865.5l303,0" class="g2_12" />
+<path d="M403.5,896.5l375,0" class="g2_12" />
+<path d="M401.5,926.5l300,0" class="g2_12" />
+<path d="M386.5,957.5l338,0" class="g2_12" />
+</svg>
